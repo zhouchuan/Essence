@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GamePlot>
+        <me>唤醒程序</me>
+        <triggerTime>1.0</triggerTime>
+        <me></me>
+        <me>我在哪，还在海上吗？我感觉好难受，那个浪实在是太大了</me>
+        <me>这里还真是黑啊。什么都看不见...</me>
+        <me>哈哈哈（节奏感),我是有多蠢，连自己先天性失明都忘了，我生来便是个瞎子，从来没有看见过。我的世界里除了黑暗就是黑暗</me>
+        <me>我从没想过要给自己留有希望，但直到我听说有个小岛上有座可以得到光明的高塔</me>
+        <me>所以我开始了一段旅程，和adam一起寻找能治疗我眼睛的高塔</me>
+        <dog>2</dog>
+        <me>adam我们是要到了吗</me>
+        <me>终于要上岸了</me>
+        
+        <voiceover>adam在我的前方</voiceover>
+        <voiceover>adam在我的左边，按下←向左旋转45°</voiceover>
+        <voiceover>adam在我的右方，按下←向右旋转45°</voiceover>
+        <voiceover>adam开始带路了，试着找到它</voiceover>
+        
+		<!--<NewDoor>d2yardR</NewDoor>-->
+		
+</GamePlot>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GamePlot>
+    
+        <me>
+            <speak>等一下adam，好多鸟啊！我们进了森林了！我们要到森林另一头的小镇去。快，adam，我们赶在天黑之前到达小镇。</speak>
+            <triggerTime></triggerTime>
+        </me>
+        
+        <me>
+            <speak>恩，新鲜的空气，好久不见啊。</speak>
+            <triggerTime></triggerTime>
+        </me>
+        <me>
+            <speak>我喜欢鸟，喜欢鸟的声音。</speak>
+            <triggerTime></triggerTime>
+        </me>
+        <me>
+            <speak>这么快就到晚上了。我们得抓紧了。</speak>
+            <triggerTime></triggerTime>
+        </me>
+        <me>
+            <speak>欧不，我好像听到了些不太好的声音。</speak>
+            <triggerTime></triggerTime>
+        </me>
+        
+        <me>
+            <speak>我们得赶紧离开这，adam 快跑！</speak>
+            <triggerTime></triggerTime>
+        </me>
+    
+        
+        <voiceover>持续前进探索森林并找到去小镇的路</voiceover>
+        <voiceover>向前跑</voiceover>
+        
+		<!--<NewDoor>d2yardR</NewDoor>-->
+		
+</GamePlot>

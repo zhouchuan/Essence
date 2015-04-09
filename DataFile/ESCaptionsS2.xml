@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GamePlot>
+    
+            <speak>等一下，这有好多鸟啊！我们进了森林了！</speak>
+			<speak>我们要到森林另一头的小镇去。</speak>
+			<speak>快，Adam，我们赶在天黑之前到达小镇。</speak>
+        
+            <speak>恩，新鲜的空气</speak>
+      
+            <speak>我喜欢鸟，喜欢鸟的声音。</speak>
+       
+            <speak>这么快就到晚上了。我们得抓紧了。</speak>
+        
+            <speak>欧不，我好像听到了一些不好的声音。</speak>
+       
+            <speak>我们得赶紧离开这</speak>
+            <speak>Adam!快跑！</speak>
+            <speak>Adam 你在前面带路，到岔路记得给我提示。</speak>
+    
+        
+        <voiceover>持续前进探索森林并找到去小镇的路</voiceover>
+        <voiceover>左边</voiceover>
+        <voiceover>右边</voiceover>
+        
+		<!--<NewDoor>d2yardR</NewDoor>-->
+		
+</GamePlot>

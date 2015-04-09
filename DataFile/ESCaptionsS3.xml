@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GamePlot>
+        <me>该死的，我在哪？</me>
+		<me>听起来像是在山洞里。</me>
+		<me>Adam？Adam？你在哪？</me>
+        <me>汪汪！ (´°̥̥̥̥̥̥̥̥ω°̥̥̥̥̥̥̥̥｀)</me>
+		<me>谢天谢地，我听见你了，别害怕，我马上就去找你。</me>
+        <me>Adam你没事吧，你吓了我一跳。</me>
+        <me>汪汪！ _(:з”∠)_</me>
+		<me>还好没事，我们先离开这吧。</me>
+		<me>Adam你在前面带路吧，找到洞口后记得提醒我</me>
+        <me>找到狗</me>
+
+        
+        <voiceover>你来到了小镇</voiceover>
+        <!--<NewDoor>d2yardR</NewDoor>-->
+		
+</GamePlot>
